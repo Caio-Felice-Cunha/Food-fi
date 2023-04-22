@@ -16,8 +16,8 @@ Danny created Foodie-Fi with a data driven mindset and wanted to ensure all futu
 > Data source: the data was provided by Danny is his [website](https://8weeksqlchallenge.com/case-study-3/)
 
 This case study has 2 main topics of questions - they are broken up by area of focus including:
-* [Customer Journey]()
-* [Data Analysis Questions]()
+* [Customer Journey](https://github.com/Caio-Felice-Cunha/Food-fi/blob/main/2%20-%20Customer%20Journey.sql)
+* [Data Analysis Questions](https://github.com/Caio-Felice-Cunha/Food-fi/blob/main/3%20-%20Data%20Analysis%20Questions.sql)
 
 ## Solution Strategy
 We used MySQL as database management system to solve this problem.
